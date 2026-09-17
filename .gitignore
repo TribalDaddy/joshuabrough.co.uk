@@ -1,3 +1,5 @@
 tmp/
 .sites-runtime/
 __pycache__/
+
+.wrangler/
